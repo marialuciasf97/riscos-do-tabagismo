@@ -2,7 +2,7 @@
 
 Este projeto foi criado para **auxiliar o grupo de Farmácia da Uninassau** em apresentações educativas em escolas, com o objetivo de **informar jovens sobre os riscos do tabagismo e do uso de vapes**.  
 
-A página web contém informações sobre:
+A página web (html e css) contém informações sobre:
 
 - Substâncias presentes em vapes e cigarros.  
 - Efeitos no corpo e riscos à saúde.  
